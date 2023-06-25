@@ -1,0 +1,7 @@
+.Container{
+    border: 2px solid;
+    margin: 3rem;
+    text-align: center;
+    overflow-y: scroll;
+    max-height: 700px;
+}
